@@ -21,7 +21,7 @@ Frontend:
 
 * HTML
 * CSS
-* Vanilla JavaScript
+* TypeScript
 * WebRTC for video and audio communication
 
 Backend:
@@ -91,3 +91,4 @@ Let me know if you also want:
 * A `.gitignore` or `LICENSE` file
 * Screenshots, preview GIFs, or demo link section
   Just say the word.
+
