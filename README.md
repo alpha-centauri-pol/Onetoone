@@ -1,7 +1,3 @@
-Sure! Here's a fully rewritten and **polished version** of your `README.md` file for the **One2One** project, without markdown syntax (you can copy-paste this into your README file directly):
-
----
-
 # One2One - Peer-to-Peer Video Chat Web App
 
 One2One is a lightweight, anonymous one-on-one video chat application built using WebRTC for peer-to-peer video calling and Socket.IO for real-time signaling. Inspired by Omegle, it allows users to connect instantly with random strangers in their browser — no sign-up, no profile, just fast, seamless video chat.
@@ -63,22 +59,6 @@ Step 4: Open the App
 Visit `http://localhost:3000` in two separate browser windows or tabs to simulate two users.
 
 ---
-
-## Folder Structure
-
-onetoone/
-│
-├── public/               → All static frontend files
-│   ├── index.html        → Main HTML file
-│   ├── style.css         → Basic UI styling
-│   └── script.js         → Frontend WebRTC and Socket.IO logic
-│
-├── server.js             → Express server and Socket.IO signaling
-├── package.json          → Node.js config and dependencies
-├── README.md             → This file
-
----
-
 ## Use Cases
 
 * Learning how peer-to-peer communication works
